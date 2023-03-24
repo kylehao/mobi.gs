@@ -1,13 +1,13 @@
 const tiles = [
 {
-  image: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/49240/ui8-alex-shutin-kKvQJ6rK6S4-unsplash.jpg',
+  image: 'https://jihulab.com/free163/mobi.gs/-/raw/c02fd977d8e126413c3fe24f94b9f4befd95feef/pc/index/qie/ui8-alex-shutin-kKvQJ6rK6S4-unsplash.jpg',
   thumb: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/49240/ui8-alex-shutin-kKvQJ6rK6S4-unsplash--thumb.jpg',
   title: 'Summer treads on <br />the heels of spring.',
   nextTitle: 'Blue <br />Mountains' },
 
 {
-  image: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/49240/ui8-marat-gilyadzinov-MYadhrkenNg-unsplash.jpg',
-  thumb: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/49240/ui8-marat-gilyadzinov-MYadhrkenNg-unsplash--thumb.jpg',
+  image: 'https://jihulab.com/free163/mobi.gs/-/raw/c02fd977d8e126413c3fe24f94b9f4befd95feef/pc/index/qie/ui8-marat-gilyadzinov-MYadhrkenNg-unsplash.jpg',
+  thumb: 'https://jihulab.com/free163/mobi.gs/-/raw/c02fd977d8e126413c3fe24f94b9f4befd95feef/pc/index/qie/ui8-marat-gilyadzinov-MYadhrkenNg-unsplash--thumb.jpg',
   title: 'Jellyfish make <br />everything better.',
   nextTitle: 'Squishy <br />Jellies' },
 
